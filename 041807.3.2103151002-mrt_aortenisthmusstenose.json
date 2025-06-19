@@ -1,0 +1,345 @@
+{
+  "title": "MRT Aortenisthmusstenose",
+  "metadata": {
+    "identifier": "041807.3.2103151002",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2021-03-15",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Geschlecht:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Körpergewicht:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Körpergröße:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Körperoberfläche (BSA):",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Method",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Flussdichte:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "MR-Protokoll:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Auswertesoftware:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Name:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Menge:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Flussgeschwindigkeit:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Aorta ascendens (Höhe PA-Bifurkation):",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "min:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "max:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "min:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "max:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "min:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "max:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "min:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "max:",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Aorta descendens (Höhe PA-Bifurkation):",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Aorta descendens (Höhe Zwerchfell):",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Für die Messungen verwendete Sequenzen:",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Stenose(n):",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Dissektionshinweise:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Aortenbogenhypoplasie:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Kinking:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Stent:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Anomalien supraaortaler Gefäße:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "PDA (Ductus arteriosus apertus):",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "Kollateralen:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Aortenklappe:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Aortenklappenfunktion:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Schlagvolumen eff.:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Cardiac Index:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Diastolischer antegrader Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "Cardiac Index vor ISTA:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Cardiac Index auf Höhe Zwechfell:",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "LV endsystolischer Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "LV Ejektionsfraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "LV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "RV enddiastolischer Diameter (RV EDD im 4KB):",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "RV endsystolischer Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 41,
+          "label": "RV Ejektionsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 42,
+          "label": "RV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 43,
+          "label": "Vorhofgröße visuell:",
+          "answer": ""
+        },
+        {
+          "id": 44,
+          "label": "LA im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 45,
+          "label": "LA im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 46,
+          "label": "RA im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 47,
+          "label": "RA im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 48,
+          "label": "Vorhofseptumstellung:",
+          "answer": ""
+        },
+        {
+          "id": 49,
+          "label": "Vorhofseptumdefekt/PFO:",
+          "answer": ""
+        },
+        {
+          "id": 50,
+          "label": "Sonstige Herzklappenpathologie:",
+          "answer": ""
+        },
+        {
+          "id": 51,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "MRT Rektum-Ca",
+  "metadata": {
+    "identifier": "041807.3.2011102112",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2020-11-10",
+    "creator": "Pinto dos Santos D (Kodierung)"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Histologie",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "neoadjuvante Vorbehandlung",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Findings",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Tumorlokalisation",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Distanz zur Anokutan-Linie",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Tumorausdehnung (Länge)",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Zirkumferenz in SSL",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Tumorinfiltration",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Abstand zur mesorektalen Faszie",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Veneninfiltration",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "mesorektal / präsakral / lokal",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Abstand zur mesorektalen Faszie",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Lymphknoten distant",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Aszitis",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Peritoneum",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Beckenstrukturen",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Skelett",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Sonstige Befunde",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Insgesamt TNM",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

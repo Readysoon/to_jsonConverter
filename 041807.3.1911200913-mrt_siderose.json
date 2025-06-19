@@ -1,0 +1,234 @@
+{
+  "title": "MRT Siderose",
+  "metadata": {
+    "identifier": "041807.3.1911200913",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2019-11-20",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Feldstärke",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "MR Protokoll Herz",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "MR Protokoll Leber",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Auswertesoftware",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Quelle der Normwerte",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "KM",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Geschlecht",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Körpergewicht",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Körpergröße",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Körperoberlfäche (BSA)",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Hämatokrit",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Vergleichsuntersuchung",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Einschränkung",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "LV endsystolischer  Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "LV Ejektions-Fraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Regionale Wandbewegungsstörungen LV:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Interventrikuläre Septumdicke (IVSD):",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "RV enddiastolischer Diameter (RV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "RV endsystolischer  Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "RV Ejektions-Fraktion (RV EF):",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Regionale Wandbewegungsstörungen RV:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Interventrikuläre Septumdicke (IVSD):",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "RA:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "LA:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Herzklappenpathologie:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Intracavitäre Thromben:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "Perikarderguss:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "T2*-Mapping (Septum):",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "T1-Mapping nativ (Septum):",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "Leberparenchym",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "Gallenwege/ Gallenblase",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "Lymphknoten",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "Milz",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "Aszites",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "T2*-Mapping:",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "T1-Mapping nativ:",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "Fett-Fraktion:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

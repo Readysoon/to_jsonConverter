@@ -1,0 +1,141 @@
+{
+  "title": "CT-Thorax COVID-19",
+  "metadata": {
+    "identifier": "041807.2.011220202010",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2020-12-01",
+    "creator": "AG Thorax"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Aufnahme-Status",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Intubiert",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "COVID-PCR Status",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "am:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Findings",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Zum Vergleich",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "vom:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "CT-Protokoll",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Milchglastrübung",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Dominantes Milchglasmuster",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Morphologie der Milchglastrübungen",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Verteilungsmuster der Milchglastrübungen",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Seiten-Ausprägung der Milchglastrübungen",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Dominates Lungenfeld der Milchglastrübungen",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Ausdehnung/Severity des Lungenbefalls quantitativ",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Konsolidierungs-Muster",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Zentrilobuläre Noduli/Tree in bud",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Lungengerüstveränderungen",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Pleuraerguss links",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Pleuraerguss rechts",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Lymphknoten",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Sonstiges",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Klassifikation des Lungenbefalls",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

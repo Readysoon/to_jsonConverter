@@ -1,0 +1,82 @@
+{
+  "title": "RECIST 1.1",
+  "metadata": {
+    "identifier": "041807.5.1707240000",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2017-07-24",
+    "creator": "Pinto dos Santos D"
+  },
+  "sections": [
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Untersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Summe Baseline",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Summe Nadir",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Summe letzte Messung",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Target Summe",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "- relativ zur Baseline",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "- relativ zum Nadir",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "- relativ zur letzten Messung",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Non-Targets",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "- Target response",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "- Non-Target response",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Gesamt Response",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

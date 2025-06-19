@@ -1,0 +1,235 @@
+{
+  "title": "CT Pankreaskarzinom (solide)",
+  "metadata": {
+    "identifier": "041807.2.1810250618",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2018-10-25",
+    "creator": "AG Onkologische Bildgebung"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Findings",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Histologie",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "IgG4",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Pankreasparenchym",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Tumorlokalisation",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Tumorgröße",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Tumorinfiltration (T-Stadium)",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Tumorinfiltration Nachbarorgane",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "KM-Enhancement arteriell",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "KM-Enhancement venös",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Ductus pancreaticus",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Ductus hepatocholedochus",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Aorta",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Truncus coeliacus",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "A. hepatica communis",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "A. hepatica propria",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "A. gastroduodenalis",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "A. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "A. lienalis",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "Anatomische Varianten",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "V. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "V. lienalis",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "V. portae",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Atherosklerose Tr. coeliacus",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Atherosklerose A. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Aszites",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "peritoneale Implantate",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Leber",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "L01",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "L02",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Milz",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Nieren / Ureteren",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "Nebennieren",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "Lymphknoten",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "Darm",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "Beckenorgane",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "Knochen",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "Lunge (soweit miterfasst)",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "sonstiges",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Insgesamt TNM",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

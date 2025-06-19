@@ -1,0 +1,36 @@
+{
+  "title": "Befundbericht nach DIN25300-1",
+  "metadata": {
+    "identifier": "041807.5.1806281203",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2018-06-25",
+    "creator": "AG Informationstechnologie der DRG"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": []
+    },
+    {
+      "name": "Medizinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Befundungsfragestellung",
+      "questions": []
+    },
+    {
+      "name": "Beschreibung",
+      "questions": []
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    },
+    {
+      "name": "Empfehlung",
+      "questions": []
+    }
+  ]
+}

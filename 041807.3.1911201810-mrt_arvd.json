@@ -1,0 +1,194 @@
+{
+  "title": "MRT ARVD",
+  "metadata": {
+    "identifier": "041807.3.1911201810",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2019-11-20",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Feldstärke",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "MR Protokoll",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Auswertesoftware",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Quelle der Normwerte",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "KM",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Geschlecht",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Körpergewicht",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Körpergröße",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Körperoberlfäche (BSA)",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Einschränkung",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "LV endsystolischer  Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "LV Ejektions-Fraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Regionale Wandbewegungsstörungen LV:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Interventrikuläre Septumdicke (IVSD):",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "RV enddiastolischer Diameter (RV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "RV endsystolischer  Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "RV Ejektions-Fraktion (RV EF):",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Weite RVOT4 im 3-Kammerblick*:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Regionale Wandbewegungsstörungen RV:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "(Mikro-) aneurysmata RV Wand:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "RA:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "LA:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "Herzklappenpathologie:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Intracavitäre Thromben:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Perikarderguss:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "Nachweis von Fettsignal im Myokard:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Late Gadolinium Enhancement (LGE):",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Majorkriterium",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

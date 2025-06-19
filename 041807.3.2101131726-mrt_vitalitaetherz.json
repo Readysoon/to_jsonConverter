@@ -1,0 +1,245 @@
+{
+  "title": "MRT Kardiale Vitalitätsdiagnostik",
+  "metadata": {
+    "identifier": "041807.3.2101131726",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2021-01-13",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Geschlecht:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Körpergewicht:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Körpergröße:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Körperoberfläche (BSA):",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Method",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Flussdichte:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "MR-Protokoll:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Auswertesoftware:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Name:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Menge:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Flussgeschwindigkeit:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "LV endsystolischer Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "LV Ejektionsfraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "LV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Regionale Wandausdünnung:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "RV enddiastolischer Diameter (RV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "RV endsystolischer Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "RV Ejektionsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "RV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Visuell:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "LA im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "LA im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "RA im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "RA im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Vorhofseptumstellung:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Herzklappenpathologie:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "Intrakavitäre Thromben:",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "Myokardödem regional:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Late Gadolinium Enhancement (LGE) Myokard:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Lokalisation/Verteilungsmuster:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Transmuralität:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Mikrovaskuläre Obstruktion:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Hämorrhagie:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "T2-Mapping:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "T1-Mapping nativ:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "T1-Mapping post KM:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "ECV:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

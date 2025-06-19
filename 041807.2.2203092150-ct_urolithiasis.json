@@ -1,0 +1,184 @@
+{
+  "title": "CT Urolithiasis",
+  "metadata": {
+    "identifier": "041807.2.2203092150",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2022-03-09",
+    "creator": "AG Uro"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": []
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Urolithiasis:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Lage:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Maximaler Durchmesser:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Volumen:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Mittlere Dichte:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Substanz nach Dual-Energy-Analyse:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Soft tissue rim sign:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Ureterwanddicke:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Zentrale Dichteabsenkung:",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Comet tail sign:",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Weitere Konkremente:",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Links:",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Rechts:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Links:",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Max. Durchmesser:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Rechts:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Max. Durchmesser:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Perirenales Ödem:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "im proximalen Drittel",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "im mittleren Drittel",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "im distalen Drittel",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "im proximalen Drittels",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "im mittleren Drittel",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "im distalen Drittel",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Seitenvergleich:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Bauchorgane:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "Gefäße:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Lymphknoten:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Skelett:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "Basaler Thorax:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

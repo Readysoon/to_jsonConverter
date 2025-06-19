@@ -1,0 +1,145 @@
+{
+  "title": "MRT Herz Adenosin-Stress",
+  "metadata": {
+    "identifier": "041807.3.2106031103",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2021-06-03",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Körpergewicht:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Körpergröße:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Körperoberfläche (BSA)::",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Method",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Technik:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Findings",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "LV enddiastolisches Volumen normiert (LV EDV/BSA):",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "LV endsystolisches Volumen normiert (LV ESV/BSA):",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "LV Ejektions-Fraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "IVSD:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Anatomie",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Perfusionsstörung unter Adenosin:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Segmente",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Ruhe-Perfusion:",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Regionale Wandbewegungsstörungen LV:",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Intracavitäre Thromben:",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Perikarderguss:",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "AV-Klappen:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Trikuspide Aortenklappe:",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Late Enhancement (LGE):",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Segmente",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Extrakardiale Auffälligkeiten",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

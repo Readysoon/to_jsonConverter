@@ -1,0 +1,265 @@
+{
+  "title": "CT Pankreasläsion (zystisch)",
+  "metadata": {
+    "identifier": "041807.2.1811161508",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2018-11-16",
+    "creator": "AG Onkologische Bildgebung"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Findings",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Histologie",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "IgG4",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Pankreasparenchym",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Tumorlokalisation",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Charakterisierung",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Anzahl",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Tumorgröße",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Gangassoziation",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Kontur",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Wand",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Septierungen",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "solide Komponente",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "KM-Enhancement",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "Kalzifikationen",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Infiltration",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Ductus pancreaticus",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Ductus hepatocholedochus",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Aorta",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "Truncus coeliacus",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "A. hepatica communis",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "A. hepatica propria",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "A. gastroduodenalis",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "A. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "A. lienalis",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Anatomische Varianten",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "V. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "V. lienalis",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "V. portae",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "Atherosklerose Tr. coeliacus",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Atherosklerose A. mesenterica superior",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Aszites",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "peritoneale Implantate",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "Leber",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "L01",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "L02",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "Milz",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "Nieren / Ureteren",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "Nebennieren",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "Lymphknoten",
+          "answer": ""
+        },
+        {
+          "id": 41,
+          "label": "Darm",
+          "answer": ""
+        },
+        {
+          "id": 42,
+          "label": "Beckenorgane",
+          "answer": ""
+        },
+        {
+          "id": 43,
+          "label": "Knochen",
+          "answer": ""
+        },
+        {
+          "id": 44,
+          "label": "Lunge (soweit miterfasst)",
+          "answer": ""
+        },
+        {
+          "id": 45,
+          "label": "sonstiges",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Insgesamt TNM",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "title": "CT TAVI-Evaluation",
+  "metadata": {
+    "identifier": "041807.2.2210200920",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2020-10-30",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Mittlere Herzfrequenz:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "EKG-Befund/Kommentar:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Method",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Nitro sublingual:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Metoprolol:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Technik:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Qualität",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Rechter Vorhof:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Rechter Ventrikel:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Linker Vorhof:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Linker Ventrikel:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Herzschrittmacher/ICD:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Koronararterien:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Thorax:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Abdomen:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Skelett:",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Weitere Bemerkungen:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Annulus:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Mittlerer Durchmesser:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Fläche:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Abstand zum Abgang der RCA:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Abstand zum Abgang der LCA:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "RAO:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Caudal:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Rechts iliofemoral minimal:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Links iliofemoral minimal:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

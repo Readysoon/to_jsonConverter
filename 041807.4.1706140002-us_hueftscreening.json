@@ -1,0 +1,39 @@
+{
+  "title": "Ultraschall Hüftscreening",
+  "metadata": {
+    "identifier": "041807.4.1706140002",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2017-06-14",
+    "creator": "Pinto dos Santos D"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Hüfttyp rechts",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Hüfttyp links",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

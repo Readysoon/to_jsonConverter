@@ -1,0 +1,214 @@
+{
+  "title": "MRT HCM/HOCM",
+  "metadata": {
+    "identifier": "041807.3.1911201758",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2019-11-20",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Feldstärke",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "MR Protokoll",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Auswertesoftware",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Quelle der Normwerte",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "KM",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Geschlecht",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Körpergewicht",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Körpergröße",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Körperoberlfäche (BSA)",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Hämatokrit",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Vergleichsuntersuchung",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Einschränkung",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "LV endsystolischer  Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "LV Ejektions-Fraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Max. LV-Wandstärke:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Regionale Wandbewegungsstörungen LV:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "LVOT-Obstruktion in Ruhe:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "LVOT-Obstruktion unter Valsalva:",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "SAM-Phänomen der Mitralklappe:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Assoziierte exzentrische Mitralklappeninsuffizienz:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "RV enddiastolischer Diameter (RV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "RV endsystolischer  Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "RV Ejektions-Fraktion (RV EF):",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "Regionale Wandbewegungsstörungen RV:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Interventrikuläre Septumdicke (IVSD):",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "RA:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "LA:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Herzklappenpathologie:",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Intracavitäre Thromben:",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "Z.n. interventioneller Therapie:",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "Late Gadolinium Enhancement (LGE):",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "T2-Mapping:",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "T1-Mapping:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

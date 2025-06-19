@@ -1,0 +1,299 @@
+{
+  "title": "CT-Angiographie der hirnversorgenden Gefäße",
+  "metadata": {
+    "identifier": "041807.2.2106031112",
+    "language": "de",
+    "publisher": "DRG, DGNR",
+    "date": "2021-06-03",
+    "creator": "Johann-Martin Hempel"
+  },
+  "sections": [
+    {
+      "name": "Clinical Information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Voruntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Unauffällig:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "ACC rechts:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "ACC links:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "ACI extrakraniell rechts:",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "ACI extrakraniell links:",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "ACI intrakraniell rechts:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "ACI intrakraniell links:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "M1/2 rechts:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "M1/2 links:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "A1/2 rechts:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "A1/2 links:",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "VA rechts:",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "VA links:",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "BA:",
+          "answer": ""
+        },
+        {
+          "id": 41,
+          "label": "Plaquemorphologie:",
+          "answer": ""
+        },
+        {
+          "id": 42,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 43,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 44,
+          "label": "P1/2 rechts:",
+          "answer": ""
+        },
+        {
+          "id": 45,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 46,
+          "label": "Embryonaler Abgang aus ACI:",
+          "answer": ""
+        },
+        {
+          "id": 47,
+          "label": "P1/2 links:",
+          "answer": ""
+        },
+        {
+          "id": 48,
+          "label": "Aneurysma:",
+          "answer": ""
+        },
+        {
+          "id": 49,
+          "label": "Embryonaler Abgang aus ACI:",
+          "answer": ""
+        },
+        {
+          "id": 50,
+          "label": "Sonstiges:",
+          "answer": ""
+        },
+        {
+          "id": 51,
+          "label": "Knöcherner Status:",
+          "answer": ""
+        },
+        {
+          "id": 52,
+          "label": "Halsweichteile:",
+          "answer": ""
+        },
+        {
+          "id": 53,
+          "label": "Obere Thoraxapertur:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

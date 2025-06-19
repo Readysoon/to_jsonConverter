@@ -1,0 +1,455 @@
+{
+  "title": "MRT Fallotsche Tetralogie",
+  "metadata": {
+    "identifier": "041807.3.2102271425",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2021-02-27",
+    "creator": "AG Herz- und Gefäßdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Geschlecht:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Körpergewicht:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Körpergröße:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Körperoberfläche (BSA):",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Method",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Flussdichte:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "MR-Protokoll:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Auswertesoftware:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Name:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Menge:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Flussgeschwindigkeit:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Normales kardiovaskuläres Arrangement:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "LV enddiastolischer Diameter (LV EDD):",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "LV enddiastolischer Volumenindex (LV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "LV endsystolischer Volumenindex (LV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "LV Ejektionsfraktion (LV EF):",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "LV Herzindex (LV CI):",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "LV ED Masse normiert:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "LV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Interventrikuläre Septumdicke (IVSD):",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "RV enddiastolischer Diameter (RV EDD im 4KB):",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "RV enddiastolischer Volumenindex (RV EDVi):",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "RV endsystolischer Volumenindex (RV ESVi):",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "RV Ejektionsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "RV Herzindex (RV CI):",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "RV Regionale Wandbewegungsstörung:",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "LA endsystolisch im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "LA endsystolisch im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "RA endsystolisch im Vierkammerblick longitudinal:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "RA endsystolisch im Vierkammerblick transversal:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "Herzzeitvolumen:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Antegrader Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Retrograder Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Herzzeitvolumen:",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "Antegrader Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "Retrograder Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "Herzzeitvolumen:",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "Antegrader Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "Retrograder Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "vmax =",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "Herzzeitvolumen:",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "Antegrader Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "Retrograder Fluss:",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "Qp:Qs =",
+          "answer": ""
+        },
+        {
+          "id": 41,
+          "label": "Pulmonalklappe:",
+          "answer": ""
+        },
+        {
+          "id": 42,
+          "label": "Regurgitationsfraktion:",
+          "answer": ""
+        },
+        {
+          "id": 43,
+          "label": "Pulmonalstenose:",
+          "answer": ""
+        },
+        {
+          "id": 44,
+          "label": "Abgangsstenosen der LPA/RPA:",
+          "answer": ""
+        },
+        {
+          "id": 45,
+          "label": "Flussverhältnis rechte / linke Lunge (optional):",
+          "answer": ""
+        },
+        {
+          "id": 46,
+          "label": "RVOT sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 47,
+          "label": "RVOT coronar:",
+          "answer": ""
+        },
+        {
+          "id": 48,
+          "label": "Valvulär sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 49,
+          "label": "Valvulär coronar:",
+          "answer": ""
+        },
+        {
+          "id": 50,
+          "label": "Truncus pulmonalis sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 51,
+          "label": "Truncus pulmonalis coronar:",
+          "answer": ""
+        },
+        {
+          "id": 52,
+          "label": "RPA sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 53,
+          "label": "RPA coronar:",
+          "answer": ""
+        },
+        {
+          "id": 54,
+          "label": "LPA sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 55,
+          "label": "LPA coronar:",
+          "answer": ""
+        },
+        {
+          "id": 56,
+          "label": "Relation Koronarien zu RVOT / PA Stamm vor geplantem interventionellem PKE aus 3D Whole Heart (optional):",
+          "answer": ""
+        },
+        {
+          "id": 57,
+          "label": "Aortenbogen:",
+          "answer": ""
+        },
+        {
+          "id": 58,
+          "label": "Deszendierende Aorta:",
+          "answer": ""
+        },
+        {
+          "id": 59,
+          "label": "Regelrechter Abgang der supraaortalen Gefäße:",
+          "answer": ""
+        },
+        {
+          "id": 60,
+          "label": "MAPCA:",
+          "answer": ""
+        },
+        {
+          "id": 61,
+          "label": "LVOT sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 62,
+          "label": "LVOT coronar:",
+          "answer": ""
+        },
+        {
+          "id": 63,
+          "label": "Annulus sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 64,
+          "label": "Annulus coronar:",
+          "answer": ""
+        },
+        {
+          "id": 65,
+          "label": "Aortensinus sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 66,
+          "label": "Aortensinus coronar:",
+          "answer": ""
+        },
+        {
+          "id": 67,
+          "label": "STJ sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 68,
+          "label": "STJ coronar:",
+          "answer": ""
+        },
+        {
+          "id": 69,
+          "label": "Aorta ascendens (Höhe RPA) sagittal:",
+          "answer": ""
+        },
+        {
+          "id": 70,
+          "label": "Aorta ascendens (Höhe RPA) coronar:",
+          "answer": ""
+        },
+        {
+          "id": 71,
+          "label": "Late Gadolinium Enhancement (LGE):",
+          "answer": ""
+        },
+        {
+          "id": 72,
+          "label": "Verteilungsmuster:",
+          "answer": ""
+        },
+        {
+          "id": 73,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

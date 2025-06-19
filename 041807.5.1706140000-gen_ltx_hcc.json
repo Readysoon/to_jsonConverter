@@ -1,0 +1,401 @@
+{
+  "title": "LTx-Evaluation HCC",
+  "metadata": {
+    "identifier": "041807.5.1706140000",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2017-06-14",
+    "creator": "Pinto dos Santos D"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": [
+        {
+          "id": 0,
+          "label": "ET-Nummer",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "Anzahl HCC-Knoten",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "nein",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 27,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 28,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 29,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 30,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 31,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 32,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 33,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 34,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 35,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 36,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 37,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 38,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 39,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 40,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 41,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 42,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 43,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 44,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 45,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 46,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 47,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 48,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 49,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 50,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 51,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 52,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 53,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 54,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 55,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 56,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 57,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 58,
+          "label": "ja",
+          "answer": ""
+        },
+        {
+          "id": 59,
+          "label": "nein",
+          "answer": ""
+        },
+        {
+          "id": 60,
+          "label": "Bemerkungen:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

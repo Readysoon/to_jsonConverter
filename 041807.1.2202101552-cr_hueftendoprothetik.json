@@ -1,0 +1,95 @@
+{
+  "title": "CR Hüftendoprothetik",
+  "metadata": {
+    "identifier": "041807.1.2202101552",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2022-02-10",
+    "creator": "AG BVB"
+  },
+  "sections": [
+    {
+      "name": "Klinische Angaben",
+      "questions": []
+    },
+    {
+      "name": "Klinische Fragestellung",
+      "questions": []
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Bildqualität:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Beurteiltes Hüftgelenk:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Gelenkstellung:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Subchondrale Sklerosierung:",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Artikuläre Osteophyten:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Deformierungen der Gelenkpartner:",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Spongiosa (zystische Deformierungen in Gelenkpfanne und Hüftkopf):",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Beckenarchitektur (Dysplasien):",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Paraartikuläre Weichteile (Kalzifikationen):",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Coxarthrose:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Kellgren-Score:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

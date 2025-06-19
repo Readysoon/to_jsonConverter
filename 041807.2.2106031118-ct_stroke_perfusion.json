@@ -1,0 +1,79 @@
+{
+  "title": "CT-Perfusion Hirn",
+  "metadata": {
+    "identifier": "041807.2.2106031118",
+    "language": "de",
+    "publisher": "DRG, DGNR",
+    "date": "2021-06-03",
+    "creator": "Johann-Martin Hempel"
+  },
+  "sections": [
+    {
+      "name": "Clinical Information",
+      "questions": []
+    },
+    {
+      "name": "Clinical Question",
+      "questions": []
+    },
+    {
+      "name": "Befund",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Voruntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Nein",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Ja, Lokalisation:",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Nein",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Ja, Lokalisation:",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Nein",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Ja, Lokalisation:",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Fluss (CBF) – Volumen (CBV) – Mismatch:",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Zeit (MTT/TTP/TTD) – Volumen (CBV) – Mismatch:",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Zeit (MTT/TTP/TTD) – Fluss (CBF) – Mismatch:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

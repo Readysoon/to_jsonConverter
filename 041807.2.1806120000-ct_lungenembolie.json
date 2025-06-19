@@ -1,0 +1,176 @@
+{
+  "title": "CT-Thorax Lungenembolie",
+  "metadata": {
+    "identifier": "041807.2.1806120000",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2018-06-12",
+    "creator": "AG Thoraxdiagnostik"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": [
+        {
+          "id": 0,
+          "label": "D-Dimer:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Vergleichsuntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Lungenembolie:",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "zentral",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "lobär",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "segmental",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "subsegmental",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Truncus pulmonalis",
+          "answer": ""
+        },
+        {
+          "id": 7,
+          "label": "Oberlappen",
+          "answer": ""
+        },
+        {
+          "id": 8,
+          "label": "Mittellappen",
+          "answer": ""
+        },
+        {
+          "id": 9,
+          "label": "Unterlappen",
+          "answer": ""
+        },
+        {
+          "id": 10,
+          "label": "Dil. Bronchialarterien",
+          "answer": ""
+        },
+        {
+          "id": 11,
+          "label": "wandstä:ndige Thromben",
+          "answer": ""
+        },
+        {
+          "id": 12,
+          "label": "Webs/Bands",
+          "answer": ""
+        },
+        {
+          "id": 13,
+          "label": "Rechtsherzbelastung:",
+          "answer": ""
+        },
+        {
+          "id": 14,
+          "label": "RV diameter",
+          "answer": ""
+        },
+        {
+          "id": 15,
+          "label": "LV diameter",
+          "answer": ""
+        },
+        {
+          "id": 16,
+          "label": "Kontrastmittelrückstau:",
+          "answer": ""
+        },
+        {
+          "id": 17,
+          "label": "Lungenarterien:",
+          "answer": ""
+        },
+        {
+          "id": 18,
+          "label": "Durchmesser Tr. pulmonalis:",
+          "answer": ""
+        },
+        {
+          "id": 19,
+          "label": "Pleura:",
+          "answer": ""
+        },
+        {
+          "id": 20,
+          "label": "Lungenparenchym:",
+          "answer": ""
+        },
+        {
+          "id": 21,
+          "label": "Zentrale Atemwege:",
+          "answer": ""
+        },
+        {
+          "id": 22,
+          "label": "Lymphknoten:",
+          "answer": ""
+        },
+        {
+          "id": 23,
+          "label": "Herz und übrige Gefäße:",
+          "answer": ""
+        },
+        {
+          "id": 24,
+          "label": "Oberbauch:",
+          "answer": ""
+        },
+        {
+          "id": 25,
+          "label": "Knochen:",
+          "answer": ""
+        },
+        {
+          "id": 26,
+          "label": "Sonstiges:",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": [
+        {
+          "id": 0,
+          "label": "RV/LV ratio",
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

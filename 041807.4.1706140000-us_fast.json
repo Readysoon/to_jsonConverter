@@ -1,0 +1,64 @@
+{
+  "title": "Röntgen-Thorax auf Station",
+  "metadata": {
+    "identifier": "041807.4.1706140000",
+    "language": "de",
+    "publisher": "Deutsche Röntgengesellschaft (DRG)",
+    "date": "2017-06-14",
+    "creator": "Pinto dos Santos D"
+  },
+  "sections": [
+    {
+      "name": "Clinical information",
+      "questions": []
+    },
+    {
+      "name": "Clinical question",
+      "questions": []
+    },
+    {
+      "name": "Befunde",
+      "questions": [
+        {
+          "id": 0,
+          "label": "Voruntersuchung:",
+          "answer": ""
+        },
+        {
+          "id": 1,
+          "label": "Perikard",
+          "answer": ""
+        },
+        {
+          "id": 2,
+          "label": "Pleura",
+          "answer": ""
+        },
+        {
+          "id": 3,
+          "label": "Morison-Pouch",
+          "answer": ""
+        },
+        {
+          "id": 4,
+          "label": "Koller-Pouch",
+          "answer": ""
+        },
+        {
+          "id": 5,
+          "label": "Douglas-Raum / Recessus rectovesicalis",
+          "answer": ""
+        },
+        {
+          "id": 6,
+          "label": "Sonstiges",
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "name": "Beurteilung",
+      "questions": []
+    }
+  ]
+}

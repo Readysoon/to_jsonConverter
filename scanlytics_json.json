@@ -1,0 +1,80 @@
+{
+    "title": "Knee Radiograph Report",
+    "description": "Comprehensive template for standardized knee X-ray reporting",
+    "metadata": {
+      "identifier": "knee-xray-report-template",
+      "language": "de",
+      "publisher": "Scanlytics",
+      "rights": "May be used freely, subject to license agreement",
+      "license": "http://www.scanlytics.de/license.pdf",
+      "date": "2025-03-16",
+      "creator": "Philipp Gallaschik"
+    },
+    "sections": [
+        {
+            "name": "Findings",
+            "questions":[
+            {
+                "id": 0,
+                "label": "Wie ist die Qualität der Untersuchung?",
+                "answer": "Gut"
+            
+            },
+            {
+                "id": 1,
+                "label": "Wie ist der Zustand der Darmreinigung?",
+                "answer": "exzellent"
+            },
+            {
+                "id": 2,
+                "label": "Welche Feldstärke wurde verwendet?",
+                "answer": ""
+            
+            },
+            {
+                "id": 3,
+                "label": "Welches Kontrastmittel wurde verwendet?",
+                "answer": ""
+                
+            },
+            {
+                "id": 4,
+                "label": "Wie viel Kontrastmittel (in ml) wurde verwendet?",
+                "answer": ""
+            
+            },
+            {
+                "id": 5,
+                "label": "Was ist der aktuelle PSA-Wert?",
+                "answer": ""
+                
+            },
+            {
+                "id": 6,
+                "label": "Gibt es eine PSA-Vorgeschichte?",
+                "answer": ""
+                
+            },
+                {
+                "id": 7,
+                "label":"Was wurde bei vorherigen Biopsien festgestellt?",
+                "answer": ""
+                
+            },
+                {
+                "id": 8,
+                "label": "Was war das Ergebnis der digitalen rektalen Untersuchung?",
+                "answer": ""
+                
+            },
+                {
+                "id": 9,
+                "label": "Wie groß ist die Prostata (in mm)?",
+                "answer": ""
+                
+                }
+            ]
+        },
+        
+    ]
+}
